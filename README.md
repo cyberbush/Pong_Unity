@@ -14,14 +14,14 @@ First make sure you're on a system that meets the [minimum requirements](https:/
 4. Double click on **Pong 2.0.exe** and click 'run anyway' if warning pops up.
 5. Follow instructions in **Help** menu and enjoy!
 
-# Installing Unity (skip ahead if already installed)
+## Installing Unity (skip ahead if already installed)
 1. Go to Unity's download page [here](https://unity3d.com/get-unity/download) and click download. 
 2. Once done downloading click install and **Accept the license agreement and terms.**
 3. Next you have the option to select with components you want to download.
 4. Finally click through the prompts until you see **Install** and click it.
 5. Wait for Unity to finish installing on your device. (Note it may take some time)
 
-# Opening Project in Unity
+## Opening Project in Unity
 1. Download the [source code](https://github.com/cyberbush/Pong_Unity) as a zip file.
 2. Next extract the contents of the zip file into a new folder of your choice.
 3. Now open the Unity Hub, click **ADD** and select the folder you chose. 
