@@ -18,8 +18,10 @@ First make sure you're on a system that meets the [minimum requirements](https:/
 1. Download the [source code](https://github.com/cyberbush/Pong_Unity) as a zip file.
 2. Next extract the contents of the zip file into a new folder of your choice.
 3. Now open the Unity Hub, click **ADD** and select the folder you chose. 
-4. Click on the project and wait for Unity to load it.
-5. Press the run button above the Game view and follow the help instructions!
+4. Double click on the project and wait for Unity to load it.
+5. Press the play button above the Game view and follow the help instructions on how to play!
+
+##Help
 
 ## Tools
 * [Unity](https://unity.com/) - is the ultimate game development platform for 2D, 3D, AR, and VR games.
