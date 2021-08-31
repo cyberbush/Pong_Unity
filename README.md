@@ -7,15 +7,19 @@ Below are instructions that will get you started with downloading Unity and play
 ### Prerequisites
 First make sure you're on a system that meets the [minimum requirements](https://docs.unity3d.com/Manual/system-requirements.html)!
 
-# Option 1 (Unity is not installed)
+# Installing Unity (skip ahead if already installed)
 1. Go to Unity's download page [here](https://unity3d.com/get-unity/download) and click download. 
 2. Once done downloading click install and **Accept the license agreement and terms.**
 3. Next you have the option to select with components you want to download.
-4. Finally click through the prompts until you get see **Install** and click it.
+4. Finally click through the prompts until you see **Install** and click it.
 5. Wait for Unity to finish installing on your device. (Note it may take some time)
 
-
-# Option 2 (Unity is installed!)
+# Opening Project in Unity
+1. Download the [source code](https://github.com/cyberbush/Pong_Unity) as a zip file.
+2. Next extract the contents of the zip file into a new folder of your choice.
+3. Now open the Unity Hub, click **ADD** and select the folder you chose. 
+4. Click on the project and wait for Unity to load it.
+5. Press the run button above the Game view and follow the help instructions!
 
 ## Tools
 * [Unity](https://unity.com/) - is the ultimate game development platform for 2D, 3D, AR, and VR games.
