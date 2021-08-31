@@ -22,7 +22,7 @@ First make sure you're on a system that meets the [minimum requirements](https:/
 5. Press the play button above the Game view and follow the help instructions on how to play!
 
 ## Tools
-* [Unity](https://unity.com/) - is the ultimate game development platform for 2D, 3D, AR, and VR games.
+* 2020.3.16f1 [Unity](https://unity.com/) - is the ultimate game development platform for 2D, 3D, AR, and VR games.
 
 ## Credit
 Useful [tutorial video](https://www.youtube.com/watch?v=AcpaYq0ihaM&list=LL&index=2) to learn how to make the game.  
