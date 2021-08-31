@@ -26,4 +26,3 @@ First make sure you're on a system that meets the [minimum requirements](https:/
 
 ## Credit
 Useful [tutorial video](https://www.youtube.com/watch?v=AcpaYq0ihaM&list=LL&index=2) to learn how to make the game.  
-Here's a [link](https://github.com/zigurous/unity-pong-tutorial) to original source I modified.
