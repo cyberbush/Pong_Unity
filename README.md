@@ -11,7 +11,7 @@ test
 * [Unity](https://unity.com/) - Unity is the a game development platform for 2D, 3D, AR, and VR games.
 
 ## Credit
-Useful [tutorial video](https://www.youtube.com/watch?v=AcpaYq0ihaM&list=LL&index=2) to learn how to make the game. 
+Useful [tutorial video](https://www.youtube.com/watch?v=AcpaYq0ihaM&list=LL&index=2) to learn how to make the game.  
 Here's a [link](https://github.com/zigurous/unity-pong-tutorial) to original source I modified.
 
 
