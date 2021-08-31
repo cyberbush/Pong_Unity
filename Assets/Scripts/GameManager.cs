@@ -32,4 +32,13 @@ public class GameManager : MonoBehaviour
         this.ball.ResetPosition();
         this.ball.AddStartingForce();
     }
+
+    void Update() {
+
+         if (Input.GetKey("escape"))
+
+             Application.Quit();
+
+    }
+
 }
