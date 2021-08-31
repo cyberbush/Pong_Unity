@@ -1,5 +1,5 @@
 # Pong_Unity
-This is a simple Pong game created using the Unity game engine and C#!
+This is a simple Pong game created using the Unity game engine and C#
 
 ## Usage
 Below are instructions that will get you started with downloading Unity and playing Pong. 
@@ -12,6 +12,7 @@ First make sure you're on a system that meets the [minimum requirements](https:/
 2. Unzip the file and save contents in new folder.
 3. Open the **Build** directory and find **Pong 2.0.exe**
 4. Double click on **Pong 2.0.exe** and click 'run anyway' if warning pops up.
+5. Follow instructions in **Help** menu and enjoy!
 
 # Installing Unity (skip ahead if already installed)
 1. Go to Unity's download page [here](https://unity3d.com/get-unity/download) and click download. 
