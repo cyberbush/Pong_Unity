@@ -7,6 +7,12 @@ Below are instructions that will get you started with downloading Unity and play
 ### Prerequisites
 First make sure you're on a system that meets the [minimum requirements](https://docs.unity3d.com/Manual/system-requirements.html)!
 
+## Quick Start
+1. Download [source code](https://github.com/cyberbush/Pong_Unity) as a .zip file.
+2. Unzip the file and save contents in new folder.
+3. Open the **Build** directory and find **Pong 2.0.exe**
+4. Double click on **Pong 2.0.exe** and click 'run anyway' if warning pops up.
+
 # Installing Unity (skip ahead if already installed)
 1. Go to Unity's download page [here](https://unity3d.com/get-unity/download) and click download. 
 2. Once done downloading click install and **Accept the license agreement and terms.**
@@ -22,7 +28,7 @@ First make sure you're on a system that meets the [minimum requirements](https:/
 5. Press the play button above the Game view and follow the help instructions on how to play!
 
 ## Tools
-* 2020.3.16f1 [Unity](https://unity.com/) - is the ultimate game development platform for 2D, 3D, AR, and VR games.
+* Version: 2020.3.16f1 [Unity](https://unity.com/) - is the ultimate game development platform for 2D, 3D, AR, and VR games.
 
 ## Credit
 Useful [tutorial video](https://www.youtube.com/watch?v=AcpaYq0ihaM&list=LL&index=2) to learn how to make the game.  
